@@ -24,4 +24,10 @@ for item in cart:
 
 print("Your cost= ",cost)
 
+if (cost> 10):
+    print("You spent a lot!")
+
+else:
+    print("You spent a little!")    
+    
 
